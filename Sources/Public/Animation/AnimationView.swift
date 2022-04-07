@@ -87,7 +87,7 @@ extension LottieLoopMode: Equatable {
 // MARK: - AnimationView
 
 @IBDesignable
-final public class AnimationView: AnimationViewBase {
+public class AnimationView: AnimationViewBase {
 
   // MARK: Lifecycle
 
